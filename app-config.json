@@ -1,0 +1,1 @@
+{  "force_migrate": {    "offer": {      "version": "1.9.41",      "icon": "https://raw.githubusercontent.com/vladyslav-superunlimited/test-files/main/turbo.jpg",      "link": "https://apps.apple.com/us/app/instagram/id389801252",      "message": {        "default": {          "title": "Mock works",          "description": "For sure works"        }      }    }  }}
